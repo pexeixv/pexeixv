@@ -27,11 +27,10 @@
 
 
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="90%">
 
 
 
-### Knowledge  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
@@ -54,7 +53,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="90%">
 
 
 
@@ -123,6 +122,3 @@
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
