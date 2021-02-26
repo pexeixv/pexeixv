@@ -110,8 +110,6 @@
 ## I'm vibing to  
   
 
-<br/>  
-
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=316o2szecuotpxulizpukpktbcmi&cover_image=true&theme=compact" /></div>  
 
 <br/>  
