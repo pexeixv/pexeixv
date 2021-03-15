@@ -87,6 +87,7 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pexeixv&theme=midnight-purple&show_icons=true&count_private=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pexeixv&theme=midnight-purple&show_icons=true&count_private=true" align="center" /></div> 
 
 <br/>  
 
@@ -94,7 +95,8 @@
 ## I'm vibing to  
   
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=316o2szecuotpxulizpukpktbcmi&cover_image=true&theme=compact" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=316o2szecuotpxulizpukpktbcmi&cover_image=true&theme=compact" /></div> 
+
 
 <br/>  
 
