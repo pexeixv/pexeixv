@@ -1,9 +1,10 @@
-> "When I die, put my code in the grave."
 
 # <div align="center">
   I'm Gavin Pereira, a graphic designer and front-end developer from Goa, India
 </div>  
 <br/>
+
+> "When I die, put my code in the grave."
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pexeixv&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=true" align="center" /></div>  
