@@ -1,3 +1,5 @@
+> "When I die, put my code in the grave."
+
 # <div align="center">
   I'm Gavin Pereira, a graphic designer and front-end developer from Goa, India
 </div>  
