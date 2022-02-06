@@ -4,7 +4,7 @@ I'm a graphic designer and front-end developer from Goa, India.
 
 ## Github Stats  
 
-<img src="https://github-readme-stats.vercel.app/api?username=pexeixv&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=true" height=150 />
+<img src="https://github-readme-stats.vercel.app/api?username=pexeixv&theme=vue-dark&show_icons=true&count_private=true&include_all_commits=true" height=150 />
 
 ## I'm vibing to
 
