@@ -9,23 +9,14 @@ I'm a graphic designer and front-end developer from Goa, India.
 ## Technology Knowledge
 
 + Git <img src="https://gavn.in/img/tech/git.svg" height=30 />
-
 + Sass <img src="https://gavn.in/img/tech/sass.svg" height=30 />
-
 + TailwindCSS <img src="https://gavn.in/img/tech/tailwind-css.svg" height=30 />
-
 + Python <img src="https://gavn.in/img/tech/python.svg" height=30 />
-
 + JavaScript <img src="https://gavn.in/img/tech/javascript.svg" height=30 />
-
 + Eleventy.js <img src="https://gavn.in/img/tech/11ty.svg" height=30 />
-
 + Astro.build <img src="https://gavn.in/img/tech/astro.build.svg" height=30 />
-
 + Next.js <img src="https://gavn.in/img/tech/next-js.svg" height=30 />
-
 + Contentful CMS <img src="https://gavn.in/img/tech/contentful-cms.svg" height=30 />
-
 + Sanity CMS <img src="https://gavn.in/img/tech/sanity-cms.svg" height=30 />
 
 
