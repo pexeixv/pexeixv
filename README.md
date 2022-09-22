@@ -9,7 +9,7 @@ I'm a graphic designer and front-end developer from Goa, India.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pexeixv&layout=compact&theme=vue-dark" height=150 />
 
 
-## Technology Knowledge
+## Tech Knowledge
 
 + Git <img src="https://gavn.in/img/tech/git.svg" height=30 />
 + Sass <img src="https://gavn.in/img/tech/sass.svg" height=30 />
