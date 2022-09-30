@@ -39,3 +39,7 @@ I'm a graphic designer and front-end developer from Goa, India.
 <img src="https://komarev.com/ghpvc/?username=pexeixv&&style=flat-square"></img>
 
 > "When I die, put my code in the grave."
+
+
+
+[![@pex's Holopin board](https://holopin.io/api/user/board?user=pex)](https://holopin.io/@pex)
