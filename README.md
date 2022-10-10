@@ -42,4 +42,14 @@ I'm a graphic designer and front-end developer from Goa, India.
 
 
 
+```javascript
+const surname = 'pereira'
+const styledSurname = surname.replaceAll('r','x').replace('a','v')
+const nickname = styledSurname.slice(0,3)
+console.log(nickname)
+```
+
+
+
+
 [![@pex's Holopin board](https://holopin.io/api/user/board?user=pex)](https://holopin.io/@pex)
