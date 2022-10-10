@@ -44,8 +44,8 @@ I'm a graphic designer and front-end developer from Goa, India.
 
 ```javascript
 const surname = 'pereira'
-const styledSurname = surname.replaceAll('r','x').replace('a','v')
-const nickname = styledSurname.slice(0,3)
+const username = surname.replaceAll('r','x').replace('a','v')
+const nickname = username.slice(0,3)
 console.log(nickname)
 ```
 
